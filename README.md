@@ -5,12 +5,14 @@
 ![Capa](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Insight.png)
 
 ## Como usar? Como fazer parte?
+
 A aplicação é divididas em duas partes, sendo a primeiro voltado a quem esta precisano de ajuda :pray:, acessando o site [estoudoando.com.br](http://estoudoando.com.br/). No nosso site você podera de forma pratica perguntar para nossa `Inteligencia artifical` :dependabot: se exite alguem doando o que deseja. Saca só!
 
 ![Apresentação](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Apresentacao.png)
 
 ## Publicar doações!
-Caso você possua roupas para doar, possuimos um bot desenvolvido via `Telegram` para justamente te auxiliar neste processo de `doação`. Coisa simple gente, basta [acessar o bot](https://t.me/estoudoando_bot), precher alguams informações e mandar foto :camera: do que você quer doar! Ahh não precisa se preocupar em dizer o que esta doando, nosso 'Mano Bot' :dependabot: consegue indenficar pela foto cada muda de roupa que você quer doar. 
+
+Caso você possua roupas para doar, temos um bot :dependabot: desenvolvido no `Telegram` para te auxiliar neste processo de doação. `É simples, gente!` Basta acessar o bot, preencher algumas informações e mandar um foto :camera: (por exemplo, uma foto da roupa) do que você quer doar. Ah, não precisa se preocupar em dizer o que está doando, nosso "Robo" (um sistema de inteligência artificial) consegue identificar pela foto cada peça de roupa que você quer doar.
 
 ![Telegram](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Telegram.png)
 
@@ -19,11 +21,13 @@ Caso você possua roupas para doar, possuimos um bot desenvolvido via `Telegram`
 ![Callback](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Callback.png)
 
 ## Tecnologias utilizadas:
+
 No `backend` estamos usando
-- telegraf (bot)
-- express (api)
-- firebase (storage)
-- mongodb (banco de dados)
-- redis (cache)
-- gemini (IA)
-- viacep (validação de cep)
+
+-   telegraf (bot)
+-   express (api)
+-   firebase (storage)
+-   mongodb (banco de dados)
+-   redis (cache)
+-   gemini (IA)
+-   viacep (validação de cep)
