@@ -1,0 +1,8 @@
+enum donationStatus {
+  AGUARDANDO_CONFIRMACAO = 'AGUARDANDO_CONFIRMACAO',
+  DISPONIVEL = 'DISPONIVEL',
+  COLETADO = 'COLETADO',
+  INDISPONIVEL = 'INDISPONIVEL',
+}
+
+export { donationStatus };
