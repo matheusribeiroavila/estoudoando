@@ -1,2 +1,4 @@
-# estoudoando
-Estoudoando é um mecanismo de busca e registro de doações de roupas que utiliza a tecnologia Gemini integrada com um bot do Telegram (desenvolvido tambem com Gemini) para facilitar a conexão entre doadores e necessitados.
+![Capa](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Insight.png)
+![Apresentação](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Apresentacao.png)
+![Telegram](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Telegram.png)
+![Callback](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Callback.png)
