@@ -12,7 +12,7 @@ A aplicação é divididas em duas partes, sendo a primeiro voltado a quem esta 
 
 ## Publicar doações!
 
-Caso você possua roupas para doar, temos um bot :dependabot: desenvolvido no `Telegram` para te auxiliar neste processo de doação. `É simples, gente!` Basta acessar o bot, preencher algumas informações e mandar um foto :camera: (por exemplo, uma foto da roupa) do que você quer doar. Ah, não precisa se preocupar em dizer o que está doando, nosso "Robo" (um sistema de inteligência artificial) consegue identificar pela foto cada peça de roupa que você quer doar.
+Caso você possua roupas para doar, temos um bot :dependabot: desenvolvido no `Telegram` para te auxiliar neste processo de doação. `É simples, gente!` Basta [https://t.me/estoudoando_bot](acessar o bot), preencher algumas informações e mandar um foto :camera: (por exemplo, uma foto da roupa) do que você quer doar. Ah, não precisa se preocupar em dizer o que está doando, nosso "Robo" (um sistema de inteligência artificial) consegue identificar pela foto cada peça de roupa que você quer doar.
 
 ![Telegram](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Telegram.png)
 
