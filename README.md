@@ -6,7 +6,7 @@
 
 ## Como usar? Como fazer parte?
 
-A aplicação é divididas em duas partes, sendo a primeiro voltado a quem esta precisano de ajuda :pray:, acessando o site [estoudoando.com.br](http://estoudoando.com.br/). No nosso site você podera de forma pratica perguntar para nossa `Inteligencia artifical` :dependabot: se exite alguem doando o que deseja. Saca só!
+A aplicação é divididas em duas partes, sendo a primeiro voltado a quem esta precisano de ajuda :pray:, acessando o site [estoudoando.com.br](https://estoudoando.vercel.app/home). No nosso site você podera de forma pratica perguntar para nossa `Inteligencia artifical` :dependabot: se exite alguem doando o que deseja. Saca só!
 
 ![Apresentação](https://github.com/matheusribeiroavila/estoudoando/blob/main/resources/Apresentacao.png)
 
